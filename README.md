@@ -1,3 +1,3 @@
 # Python
-Autor: Gabriel COni Felix Reis
+Autor: Gabriel Coni Felix Reis
 programas em python
